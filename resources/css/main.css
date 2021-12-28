@@ -1,0 +1,11 @@
+
+/* This would be compiled from SASS */
+
+ #chart {
+    height: 400px;
+    width: 300px;
+}
+
+:root {
+    --primary-color: #f00; /* #f00; */
+}
