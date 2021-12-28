@@ -38,8 +38,7 @@ chart. The chart should update reactively.
 
 ## Running
 
-First install the npm dependencies which include Echarts, a JS library
-that requires a JSON style spec:
+First install the npm dependencies which include Echarts:
 
 ```sh
 npm install
